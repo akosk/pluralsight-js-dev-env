@@ -8,7 +8,7 @@ describe('Our first test', () => {
   })
 })
 
-describe('index.html', () => {
+/*describe('index.html', () => {
   it('should say hello', (done) => {
     expect(true).to.equal(true);
     const index = fs.readFileSync('./src/index.html', "utf-8");
@@ -20,3 +20,4 @@ describe('index.html', () => {
     });
   })
 })
+*/
